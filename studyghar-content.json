@@ -1,8 +1,209 @@
 {
-  "classes": [],
-  "subjects": [],
-  "chapters": [],
+  "classes": [
+    {
+      "id": "class-class-12-sem-3-1771864899863",
+      "name": "Class 12 Sem 3",
+      "order": 2
+    },
+    {
+      "id": "class-class-12-1771863612147",
+      "name": "Class 12 CBSE",
+      "order": 1
+    }
+  ],
+  "subjects": [
+    {
+      "id": "sub-1771863760305",
+      "classId": "class-class-12-1771863612147",
+      "order": 1,
+      "name": "Physics",
+      "description": "Physics Materials for NCERT",
+      "color": "bg-orange-100 text-orange-800 dark:bg-orange-900/30 dark:text-orange-300",
+      "icon": "Atom"
+    },
+    {
+      "id": "sub-1771865207770",
+      "classId": "class-class-12-sem-3-1771864899863",
+      "order": 1,
+      "name": "পদার্থবিদ্যা (Physics)",
+      "description": "Physics এর যাবতীয় Notes",
+      "color": "bg-orange-100 text-orange-800 dark:bg-orange-900/30 dark:text-orange-300",
+      "icon": "Atom"
+    },
+    {
+      "id": "sub-1771874522757",
+      "classId": "class-class-12-sem-3-1771864899863",
+      "order": 2,
+      "name": "গণিত (Mathematics)",
+      "description": "",
+      "color": "bg-red-100 text-red-800 dark:bg-red-900/30 dark:text-red-300",
+      "icon": "Calculator"
+    },
+    {
+      "id": "sub-1771874790592",
+      "classId": "class-class-12-1771863612147",
+      "order": 2,
+      "name": "Mathematics",
+      "description": "",
+      "color": "bg-red-100 text-red-800 dark:bg-red-900/30 dark:text-red-300",
+      "icon": "Calculator"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "ch-1771864146072",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Electric Charges and Fields",
+      "description": "Quantisation of Charge, Coulomb's Law, Electric Field, Flux, Dipole, Gauss' Law",
+      "order": 1
+    },
+    {
+      "id": "ch-1771864296275",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Electrostatic Potential & Capacitance",
+      "description": ".",
+      "order": 2
+    },
+    {
+      "id": "ch-1771864325571",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Current Electricity",
+      "description": "",
+      "order": 3
+    },
+    {
+      "id": "ch-1771864362244",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Moving Charges & Magnetism",
+      "description": "",
+      "order": 4
+    },
+    {
+      "id": "ch-1771864415580",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Magnetism & Matter",
+      "description": "",
+      "order": 5
+    },
+    {
+      "id": "ch-1771864450940",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Electromagnetic Induction",
+      "description": "",
+      "order": 6
+    },
+    {
+      "id": "ch-1771864501084",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Alternating  Current",
+      "description": "",
+      "order": 7
+    },
+    {
+      "id": "ch-1771864525596",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Electromagnetic Waves",
+      "description": "",
+      "order": 8
+    },
+    {
+      "id": "ch-1771864588580",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Ray Optics and Optical Instruments",
+      "description": "",
+      "order": 9
+    },
+    {
+      "id": "ch-1771864622271",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Wave Optics",
+      "description": "",
+      "order": 10
+    },
+    {
+      "id": "ch-1771864666877",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Dual Nature of Radiation and Matter",
+      "description": "",
+      "order": 11
+    },
+    {
+      "id": "ch-1771864714981",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Atoms",
+      "description": "",
+      "order": 12
+    },
+    {
+      "id": "ch-1771864797325",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Nuclei",
+      "description": "",
+      "order": 13
+    },
+    {
+      "id": "ch-1771864835255",
+      "subjectId": "sub-1771863760305",
+      "classLevel": "class-class-12-1771863612147",
+      "name": "Semiconductor Electronics",
+      "description": "",
+      "order": 14
+    },
+    {
+      "id": "ch-1771865983477",
+      "subjectId": "sub-1771865207770",
+      "classLevel": "class-class-12-sem-3-1771864899863",
+      "name": "স্থিরতড়িৎ (Electrostatics)",
+      "description": "",
+      "order": 1
+    },
+    {
+      "id": "ch-1771873684846",
+      "subjectId": "sub-1771865207770",
+      "classLevel": "class-class-12-sem-3-1771864899863",
+      "name": "প্রবাহী তড়িৎ (Current Electricity)",
+      "description": "",
+      "order": 2
+    },
+    {
+      "id": "ch-1771873939385",
+      "subjectId": "sub-1771865207770",
+      "classLevel": "class-class-12-sem-3-1771864899863",
+      "name": "তড়িৎপ্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব (Magnetic effects of Current & Magnetism)",
+      "description": "",
+      "order": 3
+    },
+    {
+      "id": "ch-1771874298296",
+      "subjectId": "sub-1771865207770",
+      "classLevel": "class-class-12-sem-3-1771864899863",
+      "name": "তড়িৎচুম্বকীয় আবেশ ও পরিবর্তী প্রবাহ (Electromagnetic Induction & Alternating Current)",
+      "description": "",
+      "order": 4
+    },
+    {
+      "id": "ch-1771874428549",
+      "subjectId": "sub-1771865207770",
+      "classLevel": "class-class-12-sem-3-1771864899863",
+      "name": "তড়িৎচুম্বকীয় তরঙ্গসমূহ (Electromagnetic Waves)",
+      "description": "",
+      "order": 5
+    }
+  ],
   "resources": [],
   "version": 1,
-  "timestamp": 1771863190454
+  "timestamp": 1771874837199
 }
