@@ -205,9 +205,22 @@
   ],
   "resources": [
     {
+      "id": "res-1776144801797",
+      "createdAt": 1776144801797,
+      "order": 1,
+      "title": "Syllabus",
+      "description": "",
+      "link": "https://wbchse.wb.gov.in/wp-content/uploads/2024/03/PHYS_FINAL.pdf",
+      "notesUrl": "",
+      "type": "note",
+      "subjectId": "sub-1771865207770",
+      "chapterId": "ch-1771865983477",
+      "classLevel": "class-class-12-sem-3-1771864899863"
+    },
+    {
       "id": "res-1776097762902",
       "createdAt": 1776097762902,
-      "order": 1,
+      "order": 2,
       "title": "Electrostatics JEE Note PhysicsWallah",
       "description": "",
       "link": "https://drive.google.com/file/d/1TBVPoLBiwMlNdGm9jzmLyen93GqtfpvT/view",
@@ -219,5 +232,5 @@
     }
   ],
   "version": 1,
-  "timestamp": 1776097842907
+  "timestamp": 1776146375036
 }
